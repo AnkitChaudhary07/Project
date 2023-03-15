@@ -13,7 +13,7 @@
         android:autofillHints=""
         android:ems="50"
         android:inputType="textPersonName"
-        android:text="ankit chaudhary"
+        android:text="ankit"
         android:width="20sp"
         android:gravity="center"
         app:layout_constraintBottom_toBottomOf="parent"
